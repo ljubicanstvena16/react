@@ -1,0 +1,20 @@
+.header {
+    height: 45px;
+    border-bottom: 1px solid #f3f3f3;
+    color: #ffffff;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .header__title {
+    cursor: pointer;
+    }
+    .header__input {
+      margin-left: 40%;
+    }
+    .header__sort {
+      margin-right: 40%;
+      cursor: pointer;
+    }
+  }
+  
